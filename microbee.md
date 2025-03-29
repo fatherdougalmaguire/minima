@@ -24,3 +24,14 @@ It is written for MacOS Sonoma using Swift/SwiftUI.
 The GitHub repository for Abeja can be found [here](https://github.com/fatherdougalmaguire/Abeja "Abeja GitHub repository")
 
 ![My first computer](/assets/images/Microbee32K_IC.png)
+
+### Related posts
+
+<ul>
+  {% for post in site.posts %}
+      {{ post.date | date: date_format }}
+      <br>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+  {% endfor %}
+</ul>

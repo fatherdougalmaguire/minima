@@ -15,4 +15,15 @@ It is written for MacOS Sonoma ( v14.0+ ) using Swift/SwiftUI.
 LifeOnMars can be found [here](https://github.com/fatherdougalmaguire/LifeOnMARS "LifeOnMars GitHub repository")
 
 ![pMARS screenshot](/assets/images/pmarssdl.png "pMARS screenshot")
+
+### Related posts
+
+<ul>
+  {% for post in site.posts %}
+      {{ post.date | date: date_format }}
+      <br>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+  {% endfor %}
+</ul>
  
