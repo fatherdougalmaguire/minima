@@ -1,18 +1,18 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
+Contrary to what the the site title may lead you to believe, I am not an Irish priest living in exile on a windswept island.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I live in Sydney, Australia and work for the technology arm of a large financial institution.    
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+That being said, my skills are more technology adjacent.    
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+But I do own a beautiful black cat.
 
+This isn't him.  
 
-[jekyll-organization]: https://github.com/jekyll
+![](/assets/images/andreea-popa-6ST6S6i9IGM-unsplash-original.jpg "A black cat")
+
+Photo credit : [Andreea Popa](https://unsplash.com/@elfcodobelf "Unsplash")

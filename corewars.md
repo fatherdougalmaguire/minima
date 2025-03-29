@@ -1,6 +1,7 @@
 ---
 #permalink: /corewars/
 title: "CoreWars"
+layout: post
 ---
 
 Core War pits two programs ( written in simplified programming language called RedCode ) against each other in a virtual computer ( called M.A.R.S or Memory Array Redcode Simulator )

@@ -1,6 +1,7 @@
 ---
 permalink: /microbee/
 title: "Microbee"
+layout: post
 ---
 
 Back in the dim, dark, 1980's,  my family owned a Microbee. 
